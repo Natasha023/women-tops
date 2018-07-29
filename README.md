@@ -42,6 +42,15 @@ npm run deploy
 
 ![Alt text](./src/Resource/mockImg.jpg?raw=true "Mock")
 
+You’ll see here that we have five components in our simple app. 
+```
+1. App container (black): contains the entirety of the example
+2. Header component (pink): includes header name and Filter component
+3. Filter component (green): displays and filters the data collection based on user's selection
+4. MainSreen component (red): displays all structured clothes data.
+5. ClothCard component(purple): displays cloth information in one card. Includes image, product name, product price and sale/exclusive flag
+```
+
 ## Folder Structure
 ```
 women-tops/
