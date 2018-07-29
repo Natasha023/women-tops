@@ -1,4 +1,4 @@
-# Send Email App
+# Women's Tops App
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app). This project provides functionality to read clothes data from JSON file and to load them into the page with responsive layout and provides a filter to filter data by cloth size. 
 
 ## How to build
