@@ -1,0 +1,13 @@
+.App {
+  width: 92%;
+	height: 100%;
+  margin: 10px auto;
+  position: relative;
+  display: flex;
+  flex-wrap: wrap;
+}
+*{
+  margin: 0;
+  padding: 0;
+}
+
